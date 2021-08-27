@@ -1,0 +1,9 @@
+function factorial(num) {
+    for (var product = 1; num > 0; num--) {
+        product *= num
+    }
+    return product
+}
+
+factorial(7)
+console.log()
