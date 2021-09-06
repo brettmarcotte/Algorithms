@@ -1,0 +1,2 @@
+var a = ["Arenll", "Mike", "John", "Jeff", "Taylor", "Rich", "Joel", "Freddy", "Elvis", "Brett", "Lujein", "Gabriel", "Simon", "Manny", "Pierre"]
+var b = ["Milhouse", "Ferrara", "Gillard", "Mitsou", "Blais", "Loung", "Fernandez", "Canido", "Aibangbee", "Marcotte", "Suliman", "Sherman", "Morris", "Lee", "Edouard Fils"]
